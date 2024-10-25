@@ -3,7 +3,7 @@ import logo from './logo.svg';
 
 const Footer = () => {
   return (
-    <div className="flex flex-col justify-end h-[84.7vh]"> {/* Full height and no margin */}
+    <div className="flex flex-col"> {/* Full height and no margin */}
       <div className="flex justify-between items-end w-full p-0"> {/* Align logos at the bottom */}
         <header className="App-header">
           <img
